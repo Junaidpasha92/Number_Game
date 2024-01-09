@@ -11,7 +11,7 @@ Welcome to the Pig Game! This is a simple two-player game where players take tur
 - [Contributing](#contributing)
 
 ## Demo
-[Play the Pig Game](https://shaikhosman02.github.io/Pig-Game/) - 
+[Play the Pig Game](https://github.com/Junaidpasha92/Number_Game) - 
 
 ## Rules
 1. The game consists of two players: Player 1 and Player 2.
@@ -29,7 +29,7 @@ To play the Pig Game locally on your computer, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/shaikhosman02/Pig-Game.git
+   git clone https://github.com/Junaidpasha92/Number_Game.git
    ```
 
 2. Open the project folder in your preferred code editor.
